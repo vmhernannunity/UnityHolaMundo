@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Nota de actualizacion Lunes Julio 18.
+=======
+Nota de actualizacion Lunes Julio 18
+>>>>>>> ee143ec74150539df3f57825b56adec5fcd4eb15
